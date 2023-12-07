@@ -39,5 +39,3 @@ with open("input5.txt") as inp:
         if start< min:
             min = start
     print(min)
-
-
